@@ -1,7 +1,1 @@
-a = 30
-b = 20
-if a > b:
- print("a is greater than b")
-else:
- print("b is greater than a")
-
+  # i=i+1
