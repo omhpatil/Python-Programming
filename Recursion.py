@@ -1,4 +1,5 @@
 # Recursion : function calling itself
+# if we call function for using code inside it we use recursion
 
 def function(k):
   if(k > 0):
