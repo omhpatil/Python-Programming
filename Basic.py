@@ -44,7 +44,7 @@ y="is "
 z="Fabolous"
 print(x + y + z)
 
-#also + operator used for mathamatical opration
+#also + operator used for mathamatical oprations
 x = 5
 y = 10
 print(x+y)
